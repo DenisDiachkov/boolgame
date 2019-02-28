@@ -1,0 +1,224 @@
+# depslib dependency file v1.0
+1459948021 source:c:\users\qwerty\desktop\ \sfml\sfmlcb\main.cpp
+	<iostream>
+	"Level.h"
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1459947533 c:\users\qwerty\desktop\ \sfml\sfmlcb\include\level.h
+	<string>
+	<vector>
+	<map>
+	<SFML/Graphics.hpp>
+	<iostream>
+	"tinyxml.h"
+
+1459947227 c:\users\qwerty\desktop\ \sfml\sfmlcb\include\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1459947227 c:\users\qwerty\desktop\ \sfml\sfmlcb\include\tinystr.h
+	<assert.h>
+	<string.h>
+
+1459947568 source:c:\users\qwerty\desktop\ \sfml\sfmlcb\src\level.cpp
+
+1459947227 source:c:\users\qwerty\desktop\ \sfml\sfmlcb\src\tinystr.cpp
+	"tinystr.h"
+
+1459947227 source:c:\users\qwerty\desktop\ \sfml\sfmlcb\src\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1459947227 source:c:\users\qwerty\desktop\ \sfml\sfmlcb\src\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1459947227 source:c:\users\qwerty\desktop\ \sfml\sfmlcb\src\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1459947568 source:c:\users\qwerty\desktop\c\sfml\sfmlcb\src\level.cpp
+
+1459951526 source:c:\users\qwerty\desktop\c\sfml\sfmlcb\src\tinystr.cpp
+	"tinystr.h"
+
+1459947227 source:c:\users\qwerty\desktop\c\sfml\sfmlcb\src\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1459947227 source:c:\users\qwerty\desktop\c\sfml\sfmlcb\src\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1459947227 source:c:\users\qwerty\desktop\c\sfml\sfmlcb\src\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1461090470 source:c:\users\qwerty\desktop\c\sfml\sfmlcb\main.cpp
+	<iostream>
+	"include/Level.h"
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"Menu.h"
+	"View.h"
+	"Entity.h"
+	"map.h"
+	<stdlib.h>
+	<time.h>
+	"control.h"
+	<fstream>
+
+1459947533 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\level.h
+	<string>
+	<vector>
+	<map>
+	<SFML/Graphics.hpp>
+	<iostream>
+	"tinyxml.h"
+
+1459947227 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1459947227 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\tinystr.h
+	<assert.h>
+	<string.h>
+
+1459951449 source:c:\users\qwerty\desktop\c\sfml\sfmlcb\src\ew.cpp
+	"EW.h"
+
+1459951449 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\ew.h
+
+1461091939 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\menu.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<vector>
+	<iostream>
+
+1460737859 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\view.h
+	<SFML/Graphics.hpp>
+
+1460790896 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\entity.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1460920080 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\map.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1461091400 c:\users\qwerty\desktop\c\sfml\sfmlcb\include\control.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"map.h"
+
+1461607079 source:c:\users\qwerty\desktop\c++\sfml\sfmlcb\main.cpp
+	<iostream>
+	"include/Level.h"
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"Menu.h"
+	"View.h"
+	"Entity.h"
+	"map.h"
+	<stdlib.h>
+	<time.h>
+	"control.h"
+	<fstream>
+
+1459947533 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\level.h
+	<string>
+	<vector>
+	<map>
+	<SFML/Graphics.hpp>
+	<iostream>
+	"tinyxml.h"
+
+1459947227 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1459947227 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\tinystr.h
+	<assert.h>
+	<string.h>
+
+1461433029 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\menu.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<vector>
+	<iostream>
+
+1460737859 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\view.h
+	<SFML/Graphics.hpp>
+
+1460790896 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\entity.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1461607173 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\map.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1461604762 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\control.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	"map.h"
+
+1459951449 source:c:\users\qwerty\desktop\c++\sfml\sfmlcb\src\ew.cpp
+	"EW.h"
+
+1459951449 c:\users\qwerty\desktop\c++\sfml\sfmlcb\include\ew.h
+
+1459947568 source:c:\users\qwerty\desktop\c++\sfml\sfmlcb\src\level.cpp
+
+1459951526 source:c:\users\qwerty\desktop\c++\sfml\sfmlcb\src\tinystr.cpp
+	"tinystr.h"
+
+1459947227 source:c:\users\qwerty\desktop\c++\sfml\sfmlcb\src\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1459947227 source:c:\users\qwerty\desktop\c++\sfml\sfmlcb\src\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1459947227 source:c:\users\qwerty\desktop\c++\sfml\sfmlcb\src\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
